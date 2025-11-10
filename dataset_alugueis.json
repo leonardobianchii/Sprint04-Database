@@ -1,0 +1,164 @@
+[
+  {
+    "id_aluguel": 1,
+    "periodo": {
+      "retirada": "2025-05-12 08:00:00",
+      "devolucao": "YYYY-MM-DD HH24:MI:SS"
+    },
+    "cliente": {
+      "id": 1,
+      "nome": "Carlos Silva",
+      "cpf": "123.456.789-00",
+      "email": "carlos.silva@email.com"
+    },
+    "moto": {
+      "id": 1,
+      "placa": "ABC-1234",
+      "status": "Disponivel",
+      "km_rodado": 15000
+    },
+    "modelo": {
+      "id": 1,
+      "nome": "Honda CG 160"
+    },
+    "filial": {
+      "id": 1,
+      "nome": "Filial São Paulo"
+    }
+  },
+  {
+    "id_aluguel": 2,
+    "periodo": {
+      "retirada": "2025-05-10 14:00:00",
+      "devolucao": "YYYY-MM-DD HH24:MI:SS"
+    },
+    "cliente": {
+      "id": 2,
+      "nome": "Ana Costa",
+      "cpf": "987.654.321-00",
+      "email": "ana.costa@email.com"
+    },
+    "moto": {
+      "id": 2,
+      "placa": "XYZ-5678",
+      "status": "Em manutencao",
+      "km_rodado": 8000
+    },
+    "modelo": {
+      "id": 2,
+      "nome": "Yamaha Factor 150"
+    },
+    "filial": {
+      "id": 2,
+      "nome": "Filial Rio de Janeiro"
+    }
+  },
+  {
+    "id_aluguel": 3,
+    "periodo": {
+      "retirada": "2025-05-11 09:00:00",
+      "devolucao": "YYYY-MM-DD HH24:MI:SS"
+    },
+    "cliente": {
+      "id": 3,
+      "nome": "João Pereira",
+      "cpf": "111.222.333-44",
+      "email": "joao.pereira@email.com"
+    },
+    "moto": {
+      "id": 3,
+      "placa": "DEF-4321",
+      "status": "Disponivel",
+      "km_rodado": 12000
+    },
+    "modelo": {
+      "id": 3,
+      "nome": "Honda CB 500"
+    },
+    "filial": {
+      "id": 3,
+      "nome": "Filial Campinas"
+    }
+  },
+  {
+    "id_aluguel": 4,
+    "periodo": {
+      "retirada": "2025-05-10 10:00:00",
+      "devolucao": "YYYY-MM-DD HH24:MI:SS"
+    },
+    "cliente": {
+      "id": 4,
+      "nome": "Mariana Alves",
+      "cpf": "555.666.777-88",
+      "email": "mariana.alves@email.com"
+    },
+    "moto": {
+      "id": 4,
+      "placa": "GHI-8765",
+      "status": "Em manutencao",
+      "km_rodado": 5000
+    },
+    "modelo": {
+      "id": 4,
+      "nome": "Yamaha MT-07"
+    },
+    "filial": {
+      "id": 4,
+      "nome": "Filial Belo Horizonte"
+    }
+  },
+  {
+    "id_aluguel": 5,
+    "periodo": {
+      "retirada": "2025-05-12 12:00:00",
+      "devolucao": "YYYY-MM-DD HH24:MI:SS"
+    },
+    "cliente": {
+      "id": 5,
+      "nome": "Ricardo Gomes",
+      "cpf": "999.000.111-22",
+      "email": "ricardo.gomes@email.com"
+    },
+    "moto": {
+      "id": 5,
+      "placa": "JKL-1357",
+      "status": "Disponível",
+      "km_rodado": 7000
+    },
+    "modelo": {
+      "id": 5,
+      "nome": "Honda Biz 125"
+    },
+    "filial": {
+      "id": 5,
+      "nome": "Filial Curitiba"
+    }
+  },
+  {
+    "id_aluguel": 9001,
+    "periodo": {
+      "retirada": "SYSTIMESTAMP",
+      "devolucao": null
+    },
+    "cliente": {
+      "id": 1,
+      "nome": "Carlos Silva",
+      "cpf": "123.456.789-00",
+      "email": "carlos.silva@email.com"
+    },
+    "moto": {
+      "id": 1,
+      "placa": "ABC-1234",
+      "status": "Disponivel",
+      "km_rodado": 15000
+    },
+    "modelo": {
+      "id": 1,
+      "nome": "Honda CG 160"
+    },
+    "filial": {
+      "id": 1,
+      "nome": "Filial São Paulo"
+    }
+  }
+]
